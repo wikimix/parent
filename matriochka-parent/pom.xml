@@ -4,5 +4,5 @@
   <artifactId>plugins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>matriochka-portlet</name>
+  <name>matriochka-parent</name>
 </project>
